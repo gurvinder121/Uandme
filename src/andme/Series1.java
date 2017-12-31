@@ -1,0 +1,24 @@
+package andme;
+
+public class Series1 
+{
+
+//wap to display sum of series 1+2+3+4+5+6+7+8+9+10
+	
+	public static void main(String args[])
+	{
+
+int sum=0;
+for(int i=0;i<=10;i++)
+	{
+	sum=sum+i;
+	}
+
+System.out.println(sum);
+
+
+
+}
+
+
+}
